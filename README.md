@@ -2,9 +2,9 @@
 
 A Black Ops working mirror is an alternative web address that provides continued access to the Black Ops darknet market when the main site is down or blocked.
  
-[<img src="/extensions/shell.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/extensions/shell.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/extensions/pixel.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/extensions/pixel.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 Why Use a Mirror?
 
@@ -20,8 +20,10 @@ How to Find Legitimate Working Mirrors
 
 Avoid fake mirrors designed to steal credentials or inject malware.
 
-For official updates on mirrors, check [Black Ops Official Site](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion).
+For official updates on mirrors, check [Black Ops Official Site](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion).
 
 Conclusion
 
 Working mirrors are essential for consistent access to Black Ops markets but must be used with care to maintain security.
+
+Update:  18 September 2025
