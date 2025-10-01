@@ -26,4 +26,6 @@ Conclusion
 
 Working mirrors are essential for consistent access to Black Ops markets but must be used with care to maintain security.
 
-Update:  18 September 2025
+
+
+Update:  01 October
